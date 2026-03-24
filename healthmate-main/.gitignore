@@ -27,3 +27,8 @@ healthmate-frontend/yarn-error.log*
 .vscode/
 *.swp
 *.DS_Store
+
+
+application.properties
+.env
+*.log
